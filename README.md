@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年6月15日更新]
+# ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）[25年6月22日更新]
 
-> 更新时间：2025/06/15
+> 更新时间：2025/06/22
 >   
 > 作者：Cailailai  
 
